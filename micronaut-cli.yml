@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, config4k, data, data-jpa, gradle, h2, http-client, jax-rs, jdbc-hikari, junit, kotlin, kotlin-extension-functions, ktor, logback, mongo-reactive, openapi, reactor, readme, redis-lettuce, security, security-annotations, security-jwt, shade]
